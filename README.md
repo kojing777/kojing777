@@ -1,12 +1,9 @@
-# 🚀 Hi, I'm Kojing Moktan
+#  Hello, I'm Kojing Moktan
 
 👨‍💻💻 **Frontend Developer**  |  🌟📚 **Crafting Seamless Web Experiences**  
 
 🔭 **Working on**  
-🚀 Building sleek, responsive web apps with **React** & modern frontend tools.  
-
-👯 **Collaborate on**  
-🤝 Open-source projects or creative web solutions.    
+🚀 Building sleek, responsive web apps with **React** & modern frontend tools.     
 
 🌱 **Learning**  
 📖 **TypeScript**, advanced **CSS**, and **Next.js**.  
@@ -18,6 +15,8 @@
 🌌 I debug code in my dreams... and sometimes it actually works!  
 
 ---
+## 🎧 Now Playing on Spotify
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3174obmkayvuol5d7l5bzyjv7pny&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌐 Socials Links:
 <div align="center">
