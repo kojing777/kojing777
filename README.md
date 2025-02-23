@@ -1,43 +1,15 @@
-## Hi there! 👋
 
-I'm Bijaya Tamang, a passionate **MERN Stack Developer** based in Kathmandu, Nepal. I love building dynamic and responsive web applications that provide great user experiences!
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61559662797437) 
 
-## About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kojing777&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kojing777&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kojing777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a **MERN Stack Developer** with a focus on creating seamless applications. Currently located in **Kathmandu, Nepal**. I enjoy exploring new technologies and enhancing my skill set in web development.
+---
+[![](https://visitcount.itsvg.in/api?id=kojing777&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Skills & Technologies
-
-
-
-## Top Projects
-
-- [**kojing777**](https://github.com/kojing777/kojing777) - A foundational project to showcase my work. Stars: 0, Language: Not specified.
-- [**React-Second**](https://github.com/kojing777/React-Second) - A React-based project with a focus on building interactive user interfaces. Stars: 0, Language: JavaScript.
-- [**React**](https://github.com/kojing777/React) - A personal project demonstrating my skills in React. Stars: 0, Language: JavaScript.
-- [**Mind-Risers**](https://github.com/kojing777/Mind-Risers) - An engaging web application designed to inspire creativity. Stars: 0, Language: JavaScript.
-- [**Upex-Move**](https://github.com/kojing777/Upex-Move) - A project focused on moving and handling data effectively. Stars: 1, Language: HTML.
-
-## GitHub Stats
-
-💼 **Public Repositories:** 6 
-👥 **Followers:** 2 
-👤 **Following:** 3 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kojing777&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- **Pushed** to [kojing777](https://github.com/kojing777/kojing777) - Update README.md
-- **Pushed** to [React-Second](https://github.com/kojing777/React-Second) - Created branch main
-- **Created** repository [React](https://github.com/kojing777/React)
-- **Created** branch kojing in [React](https://github.com/kojing777/React)
-- **Pushed** to [Mind-Risers](https://github.com/kojing777/Mind-Risers) - Update README.md
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts. Stay tuned for updates!
-
-## Connect with Me
-
-{}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
