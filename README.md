@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kojing MOktan! 👋
 
 ### Frontend Developer | UI/UX Enthusiast | Problem Solver
 
