@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on bakery ghar website <br>👯 I’m looking to collaborate on NASA<br>🌱 I’m currently learning React.js,Next.js,Three.js<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
