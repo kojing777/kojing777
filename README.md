@@ -1,21 +1,63 @@
-# 💫 Hi, I'm Kojing Moktan
-🔭 **Currently working on**  <br>Building a climate data visualization tool using Python and D3.js.<br><br>👯 **Looking to collaborate on**  <br>Open-source sustainability projects or developer advocacy initiatives.<br><br>🤝 **Seeking help with**  <br>Improving accessibility compliance in my React components.<br><br>🌱 **Currently learning**  <br>Go (Golang) and mastering TypeScript best practices.<br><br>💬 **Ask me about**  <br>DevRel strategies, hiking trails, or retro video games! 🎮<br><br>⚡ **Fun fact**  <br>I can solve a Rubik’s Cube in under 30 seconds. ⚡
+# Hi there, I'm [Your Name]! 👋
 
+### Frontend Developer | UI/UX Enthusiast | Problem Solver
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100073086053688) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bijay_amoktan26?igsh=eWF3MmlyMTFqYWNx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bijay_atamang26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kojingmoktan92@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kojing777&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kojing777&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kojing777&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm passionate about building beautiful, responsive, and user-friendly web applications. I love turning ideas into reality with clean, efficient code and intuitive designs. Let's create something amazing together! 🚀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kojing777&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔭 **What I'm Working On**
+- Building responsive and interactive web interfaces using **React**, **TypeScript**, and **Tailwind CSS**.
+- Exploring backend development with **Node.js** to become a full-stack developer.
+
+## 🌱 **What I'm Learning**
+- Advanced JavaScript concepts and **WebAssembly**.
+- Backend development with **Node.js** and **Express**.
+- Improving my skills in **UI/UX design** and **accessibility**.
+
+## 👯 **Looking to Collaborate On**
+- Open-source projects that solve real-world problems.
+- Creative web designs or innovative SaaS platforms.
+
+## 🤝 **Looking for Help With**
+- Optimizing web performance and improving accessibility.
+- Exploring advanced animations and micro-interactions.
+
+## 💬 **Ask Me About**
+- Frontend frameworks like **React**, **Vue**, or **Angular**.
+- UI/UX best practices and design systems.
+- Tips for making your website more interactive and engaging.
+
+## ⚡ **Fun Fact**
+I once built a website that changes its theme based on the time of day and syncs with the user’s local weather! 🌞🌙
+
+---
+
+### 🛠️ **Tech Stack**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📈 **GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 📫 **How to Reach Me**
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+
+---
+
+⭐️ From [Your Name](https://github.com/yourusername)
