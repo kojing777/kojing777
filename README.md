@@ -19,5 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=kojing777&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-make this readme file more attractive and impressive and make it in centre and add tech stacks 3 in on =e line and social links in one line
