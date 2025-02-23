@@ -6,10 +6,7 @@
 🚀 Building sleek, responsive web apps with **React** & modern frontend tools.  
 
 👯 **Collaborate on**  
-🤝 Open-source projects or creative web solutions.  
-
-🤝 **Help with**  
-⚙️ Web performance, accessibility, or JS frameworks.  
+🤝 Open-source projects or creative web solutions.    
 
 🌱 **Learning**  
 📖 **TypeScript**, advanced **CSS**, and **Next.js**.  
