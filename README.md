@@ -1,27 +1,24 @@
-# 💫 Hi, I'm Kojing Moktan
+# 🚀 Hi, I'm Kojing Moktan
 
-
-👨‍💻 **Frontend Developer** | 🌟 **Crafting Seamless Web Experiences**  
+👨‍💻💻 **Frontend Developer**  |  🌟📚 **Crafting Seamless Web Experiences**  
 
 🔭 **Working on**  
-Building sleek, responsive web apps with **React** & modern frontend tools.  
+🚀 Building sleek, responsive web apps with **React** & modern frontend tools.  
 
 👯 **Collaborate on**  
-Open-source projects or creative web solutions.  
+🤝 Open-source projects or creative web solutions.  
 
 🤝 **Help with**  
-Web performance, accessibility, or JS frameworks.  
+⚙️ Web performance, accessibility, or JS frameworks.  
 
 🌱 **Learning**  
-**TypeScript**, advanced **CSS**, and **Next.js**.  
+📖 **TypeScript**, advanced **CSS**, and **Next.js**.  
 
 💬 **Ask me about**  
-Frontend development, **UI/UX design**, or making websites pop!  
+💡 Frontend development, **UI/UX design**, or making websites pop!  
 
 ⚡ **Fun fact**  
-I can code a website faster than you can say "**CSS-in-JS**"! 🚀😎  
-
-
+🌌 I debug code in my dreams... and sometimes it actually works!  
 
 ---
 
@@ -74,18 +71,18 @@ I can code a website faster than you can say "**CSS-in-JS**"! 🚀😎
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kojing777&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=kojing777&theme=solarized-dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kojing777&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+📈 ![](https://github-readme-stats.vercel.app/api?username=kojing777&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)  
+🔥 ![](https://github-readme-streak-stats.herokuapp.com/?user=kojing777&theme=solarized-dark&hide_border=false)  
+💻 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kojing777&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
 
 </div>
 
 ---
 
-### ✍️ Random Dev Quote :
+### ✍️ Random Dev Quote:
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
+✨ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
 
 </div>
 
