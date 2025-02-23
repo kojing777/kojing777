@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Kojing Moktan
 🔭 **Currently working on**  <br>Building a climate data visualization tool using Python and D3.js.<br><br>👯 **Looking to collaborate on**  <br>Open-source sustainability projects or developer advocacy initiatives.<br><br>🤝 **Seeking help with**  <br>Improving accessibility compliance in my React components.<br><br>🌱 **Currently learning**  <br>Go (Golang) and mastering TypeScript best practices.<br><br>💬 **Ask me about**  <br>DevRel strategies, hiking trails, or retro video games! 🎮<br><br>⚡ **Fun fact**  <br>I can solve a Rubik’s Cube in under 30 seconds. ⚡
 
 
