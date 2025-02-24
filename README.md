@@ -1,11 +1,11 @@
-#  Hello, I'm Kojing Moktan
+# Hello, I'm Kojing Moktan
 
-👨‍💻💻 **| Self claimed Frontend Developer |**   
+👨‍💻💻 **| Self-claimed Frontend Developer |** ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kojing777.kojing777)    
 
 🔭 **Not Yet Working**       
 
 🌱 **Learning**  
-📖 **TypeScript**, advanced **CSS**, **React** and **Next.js**.  
+📖 **TypeScript**, advanced **CSS**, **React**, and **Next.js**.  
 
 💬 **Ask me about**  
 💡 Frontend development, **UI/UX design**, or making websites pop!  
@@ -88,5 +88,3 @@
 [![](https://visitcount.itsvg.in/api?id=kojing777&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
