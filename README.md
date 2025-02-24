@@ -1,6 +1,6 @@
 # Hello, I'm Kojing Moktan
 
-👨‍💻💻 **| Self-claimed Frontend Developer |** ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kojing777.kojing777)    
+👨‍💻💻 **| Self-claimed Frontend Developer |**    
 
 🔭 **Not Yet Working**       
 
