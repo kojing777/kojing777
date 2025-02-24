@@ -1,12 +1,11 @@
 #  Hello, I'm Kojing Moktan
 
-👨‍💻💻 **Frontend Developer**  |  🌟📚 **Crafting Seamless Web Experiences**  
+👨‍💻💻 **| Self claimed Frontend Developer |**   
 
-🔭 **Working on**  
-🚀 Building sleek, responsive web apps with **React** & modern frontend tools.     
+🔭 **Not Yet Working**       
 
 🌱 **Learning**  
-📖 **TypeScript**, advanced **CSS**, and **Next.js**.  
+📖 **TypeScript**, advanced **CSS**, **React** and **Next.js**.  
 
 💬 **Ask me about**  
 💡 Frontend development, **UI/UX design**, or making websites pop!  
