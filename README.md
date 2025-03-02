@@ -13,6 +13,7 @@
 🎭 **Fun fact**  
    • **I** debug **code** in **my dreams**..... and **sometimes** it actually **works !** 
 
+
 ---
 ## 🎧 Now Playing on Spotify
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3174obmkayvuol5d7l5bzyjv7pny&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3174obmkayvuol5d7l5bzyjv7pny&redirect=true)
@@ -20,9 +21,10 @@
 ## 🐦 Socials Links:
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61559662797437) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/66cVEXY6o) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61559662797437) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/66cVEXY6o) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bijay_atamang26) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kojing-moktan-040792347) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kojingmoktan92@gmail.com)  
 
 </div>
