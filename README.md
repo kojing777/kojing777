@@ -1,16 +1,16 @@
 ## Hello, I'm Kojing Moktan
 
-👨‍💻💻 ****| Aspiring Frontend Developer | Learning & Growing |****    
+🌐🧑‍💻 ****| Aspiring Frontend Developer | Learning & Growing |****    
 
-🚧 **Not Yet Working**        
+🪦 **Not Yet Working**        
   
-🌱 **Learning**  
+📌 **Learning**  
    • **TypeScript**, **advanced CSS**, **React**, and **Next.js**.  
 
-📋 **Ask me about**  
+❓ **Ask me about**  
    • **Frontend development**, **UI/UX design**, or making **websites** pop **!**
 
-🦉 **Fun fact**  
+🎭 **Fun fact**  
    • **I** debug **code** in **my dreams**..... and **sometimes** it actually **works !** 
 
 ---
@@ -63,7 +63,7 @@
 
 ---
 
-## 🎖️ GitHub Stats:
+## 🎖 GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=kojing777&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)  
@@ -74,7 +74,7 @@
 
 ---
 
-## 🔥 Random Dev Quote:
+## 🧨 Random Dev Quote:
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
