@@ -1,17 +1,17 @@
 # Hello, I'm Kojing Moktan
 
-👨‍💻💻 **| Self-claimed Frontend Developer |**    
+👨‍💻💻 **| Aspiring Frontend Developer | Learning & Growing |**    
 
-🔭 **Not Yet Working**       
+🔭 **Not Yet Working**        
 
 🌱 **Learning**  
-📖 **TypeScript**, advanced **CSS**, **React**, and **Next.js**.  
+   • **TypeScript**, advanced **CSS**, **React**, and **Next.js**.  
 
 💬 **Ask me about**  
-💡 Frontend development, **UI/UX design**, or making websites pop!  
+   • **Frontend development**, **UI/UX** design, or making **websites** pop!  
 
 ⚡ **Fun fact**  
-🌌 I debug code in my dreams... and sometimes it actually works!  
+   • I debug code in my dreams... and sometimes it actually works!   
 
 ---
 ## 🎧 Now Playing on Spotify
