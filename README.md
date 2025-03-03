@@ -1,6 +1,6 @@
 ## Hello, I'm Kojing Moktan
 
-🌐🧑‍💻 ****| Aspiring Frontend Developer | Learning & Growing |****    
+🧑‍💻 ****| Aspiring Frontend Developer | Learning & Growing |****    
 
 🪦 **Not Yet Working**        
   
