@@ -5,7 +5,7 @@
 🪦 **Not Yet Working**        
   
 📌 **Learning**  
-   • **TypeScript**, **advanced CSS**, **React**, and **Next.js**.  
+   • **TypeScript**, **Tailwind CSS**, **React**, and **Next.js**.  
 
 ❓ **Ask me about**  
    • **Frontend development**, **UI/UX design**, or making **websites** pop **!**
