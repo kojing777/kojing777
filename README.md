@@ -15,10 +15,9 @@
 
 
 ---
-## 🎧 Now Playing on Spotify
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3174obmkayvuol5d7l5bzyjv7pny&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3174obmkayvuol5d7l5bzyjv7pny&redirect=true)
 
-## 🐦 Socials Links:
+
+## 🐦 Connect With ME:
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61559662797437) 
