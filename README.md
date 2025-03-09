@@ -1,4 +1,4 @@
-## Hello, I'm Kojing Moktan
+## Namaste, I'm Kojing Moktan
 
 🧑‍💻 ****| Aspiring Frontend Developer | Learning & Growing |****    
 
