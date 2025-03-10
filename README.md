@@ -49,10 +49,11 @@
 </p>
 
 
-**<h3>Random Dev Quote:</h3>**
+**<h2>Random Dev Quote:</h2>**
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" aly="stats" width="60%" />
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="30%">
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="kojing moktan" width="30%">
+
 </div>
 
