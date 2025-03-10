@@ -45,8 +45,8 @@
 <br><br>
 <h3 align="left">Git Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kojing777&show_icons=true&locale=en" alt="kojing777" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kojing777&" alt="kojing777" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kojing777&show_icons=true&locale=en" alt="kojing777" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kojing777&" alt="kojing777" width="48%" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" align="right" width="200">
 <br><br>
