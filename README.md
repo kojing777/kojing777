@@ -47,8 +47,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kojing777&show_icons=true&locale=en" alt="kojing777" width="48%" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kojing777&" alt="kojing777" width="48%" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="300">
+<br><br>
 
-**<h2>Random Dev Quote:</h2>**
+**<h3>Random Dev Quote:</h3>**
 <div align="left" width="100">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
