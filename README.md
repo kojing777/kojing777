@@ -49,13 +49,8 @@
 </p>
 
 **<h2>Random Dev Quote:</h2>**
-<div>
 <div align="left" width="200">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
 
-</div>
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  width="200">
-</div>
 </div>
