@@ -50,9 +50,9 @@
 
 
 **<h3>Random Dev Quote:</h3>**
-<div align="left" width="100">
+<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" aly="stats" width="60%" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="20%">
 </div>
 
