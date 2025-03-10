@@ -55,5 +55,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="300">
-<br><br>
+
