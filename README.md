@@ -1,5 +1,5 @@
 <h1 align="center"> Namaste, I'm Kojing Moktan </h1>
-<h3 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp;| Aspiring Frontend Developer | Learning & Growing |</h3>
+<h3 align="center">| Aspiring Frontend Developer | Learning & Growing |</h3>
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" /> </p>
 
@@ -10,10 +10,11 @@
    • **TypeScript**, **Tailwind CSS**, **React**, and **Next.js**.  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="25">  
 
 ❓ **Ask me about**  
-   • **Frontend development**, **UI/UX design**, or making **websites** pop **!**
-
+   • **Frontend development**, **UI/UX design**, or making **websites** pop **!** 
+   
 🎭 **Fun fact**  
-   • **I** debug **code** in **my dreams**..... and **sometimes** it actually **works !** 
+   • **I** debug **code** in **my dreams**..... and **sometimes** it actually **works !** <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp;
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
