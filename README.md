@@ -49,7 +49,7 @@
 </p>
 
 **<h2>Random Dev Quote:</h2>**
-<div align="left" width="200">
+<div align="left" width="100">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
 
