@@ -1,5 +1,6 @@
 <h1 align="center"> Namaste, I'm Kojing Moktan </h1>
-<h3 align="center">| Aspiring Frontend Developer | Learning & Growing |</h3>
+
+**<h3 align="center">| Aspiring Frontend Developer | Learning & Growing |</h3>**
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" /> </p>
 
