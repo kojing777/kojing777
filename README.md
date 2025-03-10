@@ -51,7 +51,7 @@
 <br><br>
 
 **Random Dev Quote:**
-<div align="center">
+<div align="left">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
 
