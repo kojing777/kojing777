@@ -1,14 +1,14 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 <h1 align="center"> Namaste, I'm Kojing Moktan </h1>
 
 **<h3 align="center">| Aspiring Frontend Developer | Learning & Growing |</h3>**
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="20"></p> 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="20" height="20"/>
+   
 🪦 **Not Yet Working**     
 
 📌 **Learning**  
-   • **TypeScript**, **Tailwind CSS**, **React**, and **Next.js**.  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20">  
+   • **TypeScript**, **Tailwind CSS**, **React**, and **Next.js**. <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="20" height="20"/>
 
 ❓ **Ask me about**  
    • **Frontend development**, **UI/UX design**, or making **websites** pop **!** 
