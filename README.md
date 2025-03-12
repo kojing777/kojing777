@@ -3,12 +3,12 @@
 
 **<h3 align="center">| Aspiring Frontend Developer | Learning & Growing |</h3>**
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="20" height="20"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="20" height="20"/>
    
 🪦 **Not Yet Working**     
 
 📌 **Learning**  
-   • **TypeScript**, **Tailwind CSS**, **React**, and **Next.js**. <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="20" height="20"/>
+   • **TypeScript**, **Tailwind CSS**, **React**, and **Next.js**. 
 
 ❓ **Ask me about**  
    • **Frontend development**, **UI/UX design**, or making **websites** pop **!** 
