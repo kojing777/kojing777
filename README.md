@@ -8,13 +8,13 @@
 🪦 **Not Yet Working**     
 
 📌 **Learning**  
-   • **TypeScript**, **Tailwind CSS**, **React**, and **Next.js**. 
+   • **TypeScript, Tailwind CSS, React, and Next.js**. 
 
 ❓ **Ask me about**  
-   • **Frontend development**, **UI/UX design**, or making **websites** pop **!** 
+   • **Frontend development, UI/UX design, or making websites pop !** 
    
 🎭 **Fun fact**  
-   • **I** debug **code** in **my dreams**...  and **sometimes** it actually **works !** <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="30">&nbsp;
+   • **I debug code in my dreams...  and sometimes it actually works !** <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="30">&nbsp;
 
 **<h3 align="left">Connect with me:</h3>**
 <p align="left">
