@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="20" height="20"/>
    
 🪦 **Not Yet Working**     
-
 📌 **Learning**  
    • **TypeScript, Tailwind CSS, React, and Next.js**. 
 
