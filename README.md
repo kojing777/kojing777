@@ -8,7 +8,7 @@
 🪦 **Not Yet Working**    
 
 📌 **Learning**  
-   • **TypeScript, Tailwind CSS, React, and Next.js**. 
+   • **BootStrap, React, Tailwind CSS, and Next.js**. 
 
 ❓ **Ask me about**  
    • **Frontend development, UI/UX design, or making websites pop !** 
