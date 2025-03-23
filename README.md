@@ -38,7 +38,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="1000">
-
+<h2></h2>
 
 **<h2 align="center">Languages and Tools I Have Placed My Hands On:</h2>**
 
