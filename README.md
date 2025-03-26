@@ -17,9 +17,9 @@
 🎭 **Fun fact**  
    • **I debug code in my dreams...  and sometimes it actually works !** <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="20">&nbsp;
 
-**<h3 align="left">Connect with me:</h3>**
+**<h3 align="right">Connect with me:</h3>**
 
-<p align="left">
+<p align="right">
    <a href="https://twitter.com/yourusername" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50">
    </a>
