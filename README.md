@@ -1,7 +1,7 @@
 
 <h1 align="center"> Namaste, I'm Kojing Moktan </h1>
 
-**<h3 align="center"> Aspiring Frontend developer from Nepal, passionate about crafting visually stunning and responsive web experiences. Dedicated to blending creativity, code, and innovation to build user-friendly digital solutions.</h3>**
+**<h3 align="center"> Aspiring Frontend developer from Nepal, passionate about crafting visually stunning and responsive web experiences. Dedicated to blending creativity, code, and innovation to build user-friendly digital solution.</h3>**
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="20" height="20"/>
