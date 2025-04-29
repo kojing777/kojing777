@@ -41,8 +41,9 @@
 
 <h2></h2>
 
-**<h2 align="center"> Here's something i have builted </h2>**
-1.**Upex-Move Demo**📦: https://kojing777.github.io/Upex-Move/
+<h2 align="center">Here's something I've built</h2>
+
+1. **Upex-Move Demo** 📦: [Live Demo](https://kojing777.github.io/Upex-Move/)  
 
 <h2></h2>
 
