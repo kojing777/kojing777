@@ -1,6 +1,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 <h1 align="center"> Hi, I'm Kojing Moktan   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="25">&nbsp;
+<div  align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="370">
+      </div>
 </h1>
+
 
 **<h3 align="center"> Aspiring Frontend Developer from Nepal </h3>**
 **<h4  align="center">Dedicated to blending creativity, code, and innovation to build user-friendly digital solutions.</h4>**
@@ -11,7 +15,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="20">&nbsp;
  **Not Yet Working**    
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="18">  **Learning**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">  **Learning**  
    ㅤㅤ• **MongoDB, Express.js, React, Node.js & Tailwind CSS**. 
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="20">&nbsp;  **Ask me about**  
@@ -35,7 +39,7 @@
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
    </a>
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
 **<h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="25">&nbsp;My Projects </h2>**
@@ -91,6 +95,9 @@
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp;Fun Zone</h2>**
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="300">
+   <div  align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+      </div>
   <p>"When I wrote this code, only God and I understood it. Now only God knows."</p>
 </div>
 
