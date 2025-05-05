@@ -17,7 +17,7 @@
    ㅤㅤ• **MongoDB, Express.js, React, Node.js & Tailwind CSS.**
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="20">&nbsp;**Ask me about**  
-   ㅤㅤ• **My "Aha!" moments learning. **MERN STACK**** 
+   ㅤㅤ• **My "Aha!" moments learning **MERN STACK.**** 
    
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="20">&nbsp;**Fun fact**  
   ㅤㅤ• **Believe in: "If it works, don't touch it!"** 
