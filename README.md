@@ -22,7 +22,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="20">&nbsp;**Fun fact**  
   ㅤㅤ• **Believe in: "If it works, don't touch it!"** 
 **<h3 align="left">Connect with me:</h3>**
-
 <p align="left">
    <a href="https://twitter.com/yourusername" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50">
@@ -38,7 +37,6 @@
    </a>
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 
 **<h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">&nbsp;My Projects </h2>**
 <div align="center">
