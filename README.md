@@ -38,16 +38,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 **<h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">&nbsp;My Projects </h2>**
-<div align="center">
-  
+      
+  <div align="center" >
+        
 ### Upex-Move 📦  
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-blue?style=for-the-badge)](https://kojing777.github.io/Upex-Move/)  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+       
 ### An!meSky 🚀  
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-red?style=for-the-badge)](https://anime-sky-6cmk.vercel.app/)  
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="300">
-
 </div>
+
 
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;Tech Stack </h2>**
 <div align="center">
