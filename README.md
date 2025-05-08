@@ -37,15 +37,12 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-**<h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">&nbsp;My Projects </h2>**
-      
-  <div align="center" >
-        
-### Upex-Move 📦  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-blue?style=for-the-badge)](https://kojing777.github.io/Upex-Move/)  
-       
-### An!meSky 🚀  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-red?style=for-the-badge)](https://anime-sky-6cmk.vercel.app/)  
+**<h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">&nbsp;My Projects</h2>**
+
+<div align="center">
+
+[![Upex-Move](https://img.shields.io/badge/Upex_Move-📦-blue?style=for-the-badge&logo=github)](https://kojing777.github.io/Upex-Move/)  [![An!meSky](https://img.shields.io/badge/An!meSky-🚀-red?style=for-the-badge&logo=vercel)](https://anime-sky-6cmk.vercel.app/)
+
 </div>
 
 
