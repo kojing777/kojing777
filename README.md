@@ -79,11 +79,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="kojing moktan" width="30%">
 </div>
 
-<h2></h2>
+<br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
-
-<br><br>
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp;Fun Zone</h2>**
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="300">
