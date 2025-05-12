@@ -37,21 +37,14 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-
-**<h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">&nbsp;My Projects</h2>**
+<h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">&nbsp;My Projects</h2>
 
 <p align="center">
-  <a href="https://fra-cheur.vercel.app/" style="float: left;">
-    <img src="https://img.shields.io/badge/Fra_Cheur-✨-purple?style=for-the-badge&logo=vercel">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://kojing777.github.io/Upex-Move/">
-    <img src="https://img.shields.io/badge/Upex_Move-📦-blue?style=for-the-badge&logo=github">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://anime-sky-6cmk.vercel.app/" style="float: right;">
-    <img src="https://img.shields.io/badge/An!meSky-🚀-red?style=for-the-badge&logo=vercel">
-  </a>
+  <a href="https://fra-cheur.vercel.app/"><img src="https://img.shields.io/badge/Fra_Cheur-✨-purple?style=for-the-badge&logo=vercel"></a>
+  &nbsp;
+  <a href="https://kojing777.github.io/Upex-Move/"><img src="https://img.shields.io/badge/Upex_Move-📦-blue?style=for-the-badge&logo=github"></a>
+  &nbsp;
+  <a href="https://anime-sky-6cmk.vercel.app/"><img src="https://img.shields.io/badge/An!meSky-🚀-red?style=for-the-badge&logo=vercel"></a>
 </p>
 
 
