@@ -21,8 +21,6 @@
 🎭 **Fun fact**  
    • **I debug code in my dreams...  and sometimes it actually works !** 
    
-   • **Believe in: "If it works, don't touch it!"** 
-   
 **<h3 align="left">Connect with me</h3>**
 <p align="left">
    <a href="https://twitter.com/yourusername" target="_blank">
