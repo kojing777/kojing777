@@ -76,9 +76,9 @@
 
 
 **<h2>   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="30">&nbsp;Random Dev Quote</h2>**
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" aly="stats" width="70%" />
-<img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="200">
+<div align="">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" aly="stats" width="60%" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/315afd9b-24e5-4256-ba38-8da3616f7f5e" width="30%">
 </div>
 
 <br>
