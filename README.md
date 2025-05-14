@@ -1,13 +1,17 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=000000&width=500&lines=Hi%2C+I'm+Kojing+Moktan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=000000&width=500&center=true&lines=Hi%2C+I'm+Kojing+Moktan" alt="Typing SVG" />
 </div>
 
-**<h2  align="center">Aspiring frontend developer crafting clean, responsive designs turning ideas into interactive web experiences</h2>**
+<h2 align="center">Aspiring frontend developer crafting clean, responsive designs turning ideas into interactive web experiences</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />        <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="20" height="20"/>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="20" height="20"/>
+</p>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="20">&nbsp;  **Not Yet Working**    
 
