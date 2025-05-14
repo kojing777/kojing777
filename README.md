@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=000000&width=500&lines=Hi%2C+I'm+Kojing+Moktan" alt="Typing SVG" />
 </div>
 
-**<h3  align="center">Just a dreamer learning to code, hoping to become a creative and skilled frontend developer someday.</h3>**
+**<h3  align="center">Aspiring frontend developer crafting clean, responsive designs turning ideas into interactive web experiences</h3>**
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />        <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="20" height="20"/>
