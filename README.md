@@ -1,11 +1,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
-<h1 align="center"> Hi, I'm Kojing Moktan   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="25">&nbsp;
-<div  align="center">
-      </div>
-</h1>
 
-**<h3 align="center"> Aspiring Frontend Developer from Nepal </h3>**
-**<h3  align="center">Dedicated to blending creativity, code, and innovation to build user-friendly digital solutions.</h3>**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=000000&width=500&lines=Hi%2C+I'm+Kojing+Moktan" alt="Typing SVG" />
+</div>
+
+**<h3  align="center">Just a dreamer learning to code, hoping to become a creative and skilled frontend developer someday.</h3>**
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />        <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="20" height="20"/>
