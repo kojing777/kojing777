@@ -59,7 +59,7 @@
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp;GitHub Stats</h2>**
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kojing777&show_icons=true&locale=en" alt="kojing777" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kojing777&" alt="kojing777" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kojing777&" alt="kojing777" width="50%" />
 </p>
 
 
