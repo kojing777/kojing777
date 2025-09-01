@@ -43,7 +43,6 @@
 
 <p align="center">
   <a href="https://fra-cheur.vercel.app/"><img src="https://img.shields.io/badge/Fra_Cheur-✨-purple?style=for-the-badge&logo=vercel"></a>
-  <a href="https://anime-sky-6cmk.vercel.app/"><img src="https://img.shields.io/badge/AnimeSky-🚀-red?style=for-the-badge&logo=vercel"></a>
   <a href="https://groceezy.kojing.me/"><img src="https://img.shields.io/badge/Groceezy-🛒-green?style=for-the-badge&logo=vercel"></a>
 </p>
 
