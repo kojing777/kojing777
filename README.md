@@ -40,12 +40,50 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+
 <h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">&nbsp;My Projects</h2>
 
-<p align="center">
-  <a href="https://fra-cheur.vercel.app/"><img src="https://img.shields.io/badge/Fra_Cheur-✨-purple?style=for-the-badge&logo=vercel"></a>
-  <a href="https://groceezy.kojing.me/"><img src="https://img.shields.io/badge/Groceezy-🛒-green?style=for-the-badge&logo=vercel"></a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="400px">
+  <a href="https://fra-cheur.vercel.app/">
+    <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757217075/Screenshot_2025-09-07_093517_ancuhs.png" width="300" alt="Fra-Cheur Project" /><br>
+    <img src="https://img.shields.io/badge/Fra_Cheur-✨-purple?style=for-the-badge&logo=vercel">
+  </a>
+  <p><b>🛍️ An elegant bakery store website built with HTML & CSS.</b></p>
+</td>
+
+<td align="center" width="400px">
+  <a href="https://groceezy.kojing.me/">
+    <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757216017/Screenshot_2025-09-07_091826_w6iplj.png" width="300" alt="Groceezy Project" /><br>
+    <img src="https://img.shields.io/badge/Groceezy-🛒-green?style=for-the-badge&logo=vercel">
+  </a>
+  <p><b>🛒 A responsive grocery shopping web app built using React & Tailwind.</b></p>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="400px">
+  <a href="https://meubel-house-iota.vercel.app/">
+    <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757215916/Screenshot_2025-09-07_091455_k50kfz.png" width="300" alt="Meubel House Project" /><br>
+    <img src="https://img.shields.io/badge/Meubel_House-🪑-orange?style=for-the-badge&logo=vercel">
+  </a>
+  <p><b>🪑 A modern furniture e-commerce store built with React & Tailwind.</b></p>
+</td>
+
+<td align="center" width="400px">
+  <a href="https://portfolio-wine-alpha-82.vercel.app/">
+    <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757216059/Screenshot_2025-09-07_091908_gjnpqc.png" width="300" alt="Portfolio Project" /><br>
+    <img src="https://img.shields.io/badge/My_Portfolio-🚀-blueviolet?style=for-the-badge&logo=vercel">
+  </a>
+  <p><b>💼 My personal portfolio showcasing projects, skills & experience.</b></p>
+</td>
+</tr>
+</table>
+
+</div>
 
 
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;Tech Stack </h2>**
