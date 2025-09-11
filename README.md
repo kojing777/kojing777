@@ -45,7 +45,7 @@
 <table>
 <tr>
 <td align="center" width="400px">
-  <a href="https://fra-cheur.vercel.app/">
+  <a href="https://fra-cheur.vercel.app/" target="_blank">
     <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757217075/Screenshot_2025-09-07_093517_ancuhs.png" width="300" alt="Fra-Cheur Project" /><br>
     <img src="https://img.shields.io/badge/Fra_Cheur-✨-purple?style=for-the-badge&logo=vercel">
   </a>
