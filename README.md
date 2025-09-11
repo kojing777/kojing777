@@ -111,7 +111,25 @@
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp;Fun Zone</h2>**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
-  <h3>⚡ Thanks for visiting my profile ⚡</h3>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
+
+<table>
+<tr>
+<td>
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+</td>
+</tr>
+</table>
+
+<h3>⚡ Thanks for visiting my profile ⚡</h3>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
+
 </div>
+
+</div>
+
