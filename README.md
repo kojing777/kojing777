@@ -108,12 +108,12 @@
 
 <h3>💼 Experience</h3>
 
-- **Frontend Developer Intern** @ XYZ Company  
+<!-- <**Frontend Developer Intern** @ XYZ Company  
   *Jan 2024 – Jun 2024*  
-  Worked on React, Tailwind & API integrations.  
+  Worked on React, Tailwind & API integrations.--> 
 
-- **Freelance MERN Projects**  
-  *2023 – Present*  
+- **Own MERN Projects**  
+  *2025 – Present*  
   Built responsive web apps with React, Node, and MongoDB.  
 
 </td>
@@ -122,11 +122,11 @@
 
 <h3>🎓 Education</h3>
 
-- **Bachelor in Computer Science**  
-  ABC University (*2021 – Present*)  
+- **Bachelor of Science in Computer Science and Information Technology**  
+  TU University (*2022 – Present*)  
 
 - **High School (+2 Science)**  
-  DEF College (*2019 – 2021*)  
+  Nepalaya College (*2019 – 2021*)  
 
 </td>
 </tr>
