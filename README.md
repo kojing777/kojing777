@@ -35,7 +35,11 @@
    <a href="https://instagram.com/" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">
    </a>
+<!--    <a href="https://portfolio-wine-alpha-82.vercel.app/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50" alt="Portfolio Globe">
+   </a> -->
 </p>
+
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 
 <br>
@@ -96,6 +100,37 @@
   <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,docker,firebase" />
 </div>
 
+<h2>💼 Experience & 🎓 Education</h2>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h3>💼 Experience</h3>
+
+- **Frontend Developer Intern** @ XYZ Company  
+  *Jan 2024 – Jun 2024*  
+  Worked on React, Tailwind & API integrations.  
+
+- **Freelance MERN Projects**  
+  *2023 – Present*  
+  Built responsive web apps with React, Node, and MongoDB.  
+
+</td>
+
+<td width="40%" valign="top">
+
+<h3>🎓 Education</h3>
+
+- **Bachelor in Computer Science**  
+  ABC University (*2021 – Present*)  
+
+- **High School (+2 Science)**  
+  DEF College (*2019 – 2021*)  
+
+</td>
+</tr>
+</table>
 
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp;GitHub Stats</h2>**
 <p align="center">
