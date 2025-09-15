@@ -104,7 +104,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 <h3>💼 Experience</h3>
 
@@ -118,7 +118,7 @@
 
 </td>
 
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🎓 Education</h3>
 
