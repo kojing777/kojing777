@@ -52,7 +52,7 @@
 - Showcases bakery products with a modern UI  
 - Fast and lightweight  
 
-`HTML` `CSS`
+`HTML` `CSS` `JS`
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +63,7 @@
 - Mobile-first responsive design  
 - Deployed on Vercel for scalability  
 
-`React` `Tailwind CSS`
+`React` `MongoDB` `Node.js` `Express.js`
 
 </td>
 </tr>
@@ -77,7 +77,7 @@
 - Responsive and clean design  
 - Smooth navigation and performance  
 
-`React` `Tailwind CSS`
+`MongoDB` `Express.js` `React` `MongoDB` `Tailwind CSS`
 
 </td>
 <td width="50%" valign="top">
@@ -88,7 +88,7 @@
 - Minimalist and professional design  
 - Easy navigation for recruiters  
 
-`React` `Tailwind CSS`
+`React` `Tailwind CSS` `Framer motion`
 
 </td>
 </tr>
