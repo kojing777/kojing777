@@ -164,7 +164,7 @@
 </tr>
 </table>
 
-<h3>⚡ Thanks for visiting my profile ⚡</h3>
+✨ *Focused. Building. Growing.* ✨
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
 
