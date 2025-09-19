@@ -1,19 +1,14 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
-<br>
-<br>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF,F39C12,3498DB,E74C3C&center=true&width=600&lines=Hi%2C+I'm+Bijaya+Tamang;Frontend+%26+MERN+Stack+Developer;Crafting+Clean%2C+Interactive+UI%2FUX" alt="Typing SVG" />
-</div>
+<h1 align="center"> Namaste, I'm Bijaya Tamang </h1>
+<h3 align="center">Frontend developer from Nepal, passionate about crafting visually stunning and responsive web experiences. Dedicated to blending creativity, code, and innovation to build user-friendly digital solutions</h3>
 
-<!--<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400"> -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" align="right" width="380">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="500">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />
  
 </p>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="20">&nbsp;  **Not Yet Working**    
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="20">&nbsp;  **Currently focusing on learning and building projects to sharpen my MERN stack skills.**    
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">   **Learning**  
    • **MongoDB,  Express.js, React, Node.js, and Tailwind CSS.**. 
@@ -49,55 +44,65 @@
 
 <table>
 <tr>
-<td align="center" width="400px">
-  <a href="https://fra-cheur.vercel.app/" target="_blank">
-    <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757217075/Screenshot_2025-09-07_093517_ancuhs.png" width="300" alt="Fra-Cheur Project" /><br>
-    <img src="https://img.shields.io/badge/Fra_Cheur-✨-purple?style=for-the-badge&logo=vercel">
-  </a>
-  <p><b>🛍️ An elegant bakery store website built with HTML & CSS.</b></p>
-</td>
+<td width="50%" valign="top">
 
-<td align="center" width="400px">
-  <a href="https://groceezy.kojing.me/">
-    <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757216017/Screenshot_2025-09-07_091826_w6iplj.png" width="300" alt="Groceezy Project" /><br>
-    <img src="https://img.shields.io/badge/Groceezy-🛒-green?style=for-the-badge&logo=vercel">
-  </a>
-  <p><b>🛒 A responsive grocery shopping web app built using React & Tailwind.</b></p>
+### 🛍️ [Fra-Cheur](https://fra-cheur.vercel.app/)  
+**Elegant bakery store website built with HTML & CSS.**  
+- Clean and responsive design  
+- Showcases bakery products with a modern UI  
+- Fast and lightweight  
+
+`HTML` `CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [Groceezy](https://groceezy.kojing.me/)  
+**Responsive grocery shopping web app using React & Tailwind.**  
+- User-friendly shopping interface  
+- Mobile-first responsive design  
+- Deployed on Vercel for scalability  
+
+`React` `Tailwind CSS`
+
 </td>
 </tr>
 
 <tr>
-<td align="center" width="400px">
-  <a href="https://meubel-house-iota.vercel.app/">
-    <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757215916/Screenshot_2025-09-07_091455_k50kfz.png" width="300" alt="Meubel House Project" /><br>
-    <img src="https://img.shields.io/badge/Meubel_House-🪑-orange?style=for-the-badge&logo=vercel">
-  </a>
-  <p><b>🪑 A modern furniture e-commerce store built with React & Tailwind.</b></p>
-</td>
+<td width="50%" valign="top">
 
-<td align="center" width="400px">
-  <a href="https://portfolio-wine-alpha-82.vercel.app/">
-    <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1757216059/Screenshot_2025-09-07_091908_gjnpqc.png" width="300" alt="Portfolio Project" /><br>
-    <img src="https://img.shields.io/badge/My_Portfolio-🚀-blueviolet?style=for-the-badge&logo=vercel">
-  </a>
-  <p><b>💼 My personal portfolio showcasing projects, skills & experience.</b></p>
+### 🪑 [Meubel House](https://meubel-house-iota.vercel.app/)  
+**Modern furniture e-commerce store built with React & Tailwind.**  
+- Product showcase with categories  
+- Responsive and clean design  
+- Smooth navigation and performance  
+
+`React` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [My Portfolio](https://portfolio-wine-alpha-82.vercel.app/)  
+**Personal portfolio to showcase projects, skills & experience.**  
+- Highlights major projects and skills  
+- Minimalist and professional design  
+- Easy navigation for recruiters  
+
+`React` `Tailwind CSS`
+
 </td>
 </tr>
 </table>
-
 </div>
 
+
+</div>
 
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;Tech Stack </h2>**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,c,cpp,cs,dotnet" />
-</div>
-<br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"><h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;Deployment Tools</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,vercel,netlify,githubactions" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,docker,firebase" />
 </div>
 
 <h2>💼 Experience & 🎓 Education</h2>
