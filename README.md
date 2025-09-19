@@ -11,13 +11,13 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="20">&nbsp;  **Currently focusing on learning and building projects to sharpen my MERN stack skills.**    
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">   **Learning**  
-   • **MongoDB,  Express.js, React, Node.js, and Tailwind CSS.**. 
+   • **MongoDB,  Express.js, React, Node.js, and Tailwind CSS.**
    
 ❓ **Ask me about**  
   • **My "Aha!" moments learning **MERN STACK.****
    
 🎭 **Fun fact**  
-   • **I debug code in my dreams...  and sometimes it actually works !**<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="30">&nbsp; 
+   • **I debug code in my dreams...  and sometimes it actually works !**<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="20">&nbsp; 
    
 **<h3 align="left">Connect with me</h3>**
 <p align="left">
