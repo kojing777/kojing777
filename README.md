@@ -46,13 +46,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ [Lama-Ai](https://lama-ai-bice.vercel.app/)  
-**Elegant bakery store website built with HTML & CSS.**  
-- Clean and responsive design  
-- Showcases bakery products with a modern UI  
-- Fast and lightweight  
+### ✨ [Lama AI](https://lama-ai-bice.vercel.app/)  
+**AI-powered MERN project integrated with OpenAI, ImageKit, and Stripe.**  
+- AI-powered chat and image generation  
+- Secure Stripe payment integration  
+- Full MERN stack with responsive UI  
 
-`HTML` `CSS` `JS`
+`MERN` `Tailwind CSS` `OpenAI` `ImageKit` `Stripe`
 
 </td>
 <td width="50%" valign="top">
@@ -71,7 +71,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🪑 [Meubel House](https://meubel-house-iota.vercel.app/)  
+### 🛋️ [Meubel House](https://meubel-house-iota.vercel.app/)  
 **Modern furniture e-commerce store built with React & Tailwind.**  
 - Product showcase with categories  
 - Responsive and clean design  
