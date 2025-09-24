@@ -46,7 +46,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ [Fra-Cheur](https://fra-cheur.vercel.app/)  
+### 🛍️ [Lama-Ai](https://lama-ai-bice.vercel.app/)  
 **Elegant bakery store website built with HTML & CSS.**  
 - Clean and responsive design  
 - Showcases bakery products with a modern UI  
