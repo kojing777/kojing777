@@ -1,5 +1,5 @@
 <h1 align="center"> Namaste, I'm Bijaya Tamang </h1>
-<h3 align="center">Frontend developer from Nepal, passionate about crafting visually stunning and responsive web experiences. Dedicated to blending creativity, code, and innovation to build user-friendly digital solutions</h3>
+<h3 align="center">MERN Stack Developer from Nepal | Passionate about creating scalable, responsive, and user-friendly web applications. I love blending creativity with code to craft seamless digital experiences, from intuitive frontends to powerful backends.s</h3>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="500">
 
