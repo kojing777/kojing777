@@ -46,7 +46,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ✨ [Lama AI](https://lama-ai-bice.vercel.app/)  
+### ✨ [Lama AI](https://lama-ai-five.vercel.app/)  
 **AI-powered MERN project integrated with OpenAI, ImageKit, and Stripe.**  
 - AI-powered chat and image generation  
 - Secure Stripe payment integration  
