@@ -57,13 +57,14 @@
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [Groceezy](https://groceezy.kojing.me/)  
-**Responsive grocery shopping web app using React & Tailwind.**  
-- User-friendly shopping interface  
-- Mobile-first responsive design  
-- Deployed on Vercel for scalability  
+### 🏨 [YatriGhar](https://yatri-ghar-frontendv1-0.vercel.app/)  
+**Responsive hotel booking web app using React & Vite.**  
+- Browse featured destinations and book rooms easily  
+- Hotel owner dashboard to manage rooms and bookings  
+- Mobile-first, component-driven responsive design  
+- Rich UI features:testimonials, newsletter capture  
 
-`React` `MongoDB` `Node.js` `Express.js`
+`React` `Vite` `Framer-motion` `Tailwind CSS`
 
 </td>
 </tr>
