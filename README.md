@@ -3,10 +3,11 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="500">
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />
  
-</p>
+</p> -->
+**<p align="left">About me:</p>**
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="20">&nbsp;  **Currently focusing on learning and building projects to sharpen my MERN stack skills.**    
 
