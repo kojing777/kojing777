@@ -48,24 +48,28 @@
 <td width="50%" valign="top">
 
 ### ✨ [Lama AI](https://lama-ai-five.vercel.app/)  
-**AI-powered MERN project integrated with OpenAI, ImageKit, and Stripe.**  
+**AI-Powered Full-Stack Web Application (MERN + OpenAI + ImageKit + Stripe)**  
 - AI-powered chat and image generation  
 - Secure Stripe payment integration  
-- Full MERN stack with responsive UI  
+- Built with the MERN stack (MongoDB, Express, React, Node.js) for scalable performance
+- Responsive, modern UI styled with Tailwind CSS and optimized for all devices  
 
 `MERN` `Tailwind CSS` `OpenAI` `ImageKit` `Stripe`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 [YatriGhar](https://yatri-ghar-frontendv1-0.vercel.app/)  
-**Responsive hotel booking web app using React & Vite.**  
-- Browse featured destinations and book rooms easily  
-- Hotel owner dashboard to manage rooms and bookings  
-- Mobile-first, component-driven responsive design  
-- Rich UI features:testimonials, newsletter capture  
+### 🏨 [YatriGhar - Nepal Comfort](https://yatrighar.vercel.app/)  
+**Full-Stack Hotel Booking Platform (MERN + Clerk + Stripe).**  
+- Seamless hotel booking experience built with the MERN stack (MongoDB, Express, React, Node.js) 
+- User authentication & authorization powered by Clerk  
+- Secure online payments integrated with Stripe  
+- Browse and book from featured destinations with real-time availability
+- Hotel owner dashboard to manage rooms, bookings, and revenue
+- Mobile-first, component-driven responsive UI for all devices
+- Enhanced user experience with testimonials, newsletter signup, and dynamic animations  
 
-`React` `Vite` `Framer-motion` `Tailwind CSS`
+` Express` `React` `Node.js` `Clerk` `Stripe` `Tailwind CSS` `Vite`
 
 </td>
 </tr>
@@ -74,21 +78,23 @@
 <td width="50%" valign="top">
 
 ### 🛋️ [Meubel House](https://meubel-house-iota.vercel.app/)  
-**Modern furniture e-commerce store built with React & Tailwind.**  
-- Product showcase with categories  
-- Responsive and clean design  
-- Smooth navigation and performance  
+**Full-Stack Furniture E-Commerce Platform (MERN + Cloudinary)**  
+- Modern online store for browsing and purchasing premium furniture 
+- Product management with categories, images, and real-time inventory 
+- Cloudinary integration for image optimization and fast delivery
+- Responsive, clean, and user-friendly UI built with React and Tailwind CSS
 
-`MongoDB` `Express.js` `React` `MongoDB` `Tailwind CSS`
+`MongoDB` `Express.js` `React` `MongoDB` `Tailwind CSS` `Cloudinary`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💼 [My Portfolio](https://portfolio-wine-alpha-82.vercel.app/)  
 **Personal portfolio to showcase projects, skills & experience.**  
-- Highlights major projects and skills  
-- Minimalist and professional design  
-- Easy navigation for recruiters  
+- Dynamic personal portfolio designed to showcase projects, technical skills, and professional experience
+- Project highlights section with detailed descriptions, live previews, and GitHub links
+- Smooth animations and transitions powered by Framer Motion for a modern, engaging user experience
+- Responsive and minimalist UI built with React and Tailwind CSS, ensuring compatibility across all devices  
 
 `React` `Tailwind CSS` `Framer motion`
 
