@@ -89,7 +89,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 💼 [My Portfolio](https://portfolio-wine-alpha-82.vercel.app/)  
+### 💼 [My Portfolio](https://bijaya-tamang.vercel.app/)  
 **Personal portfolio to showcase projects, skills & experience.**  
 - Dynamic personal portfolio designed to showcase projects, technical skills, and professional experience
 - Project highlights section with detailed descriptions, live previews, and GitHub links
