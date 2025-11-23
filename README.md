@@ -49,10 +49,9 @@
 
 ### ✨ [Lama AI](https://lama-ai-five.vercel.app/)  
 **AI-Powered Full-Stack Web Application (MERN + OpenAI + ImageKit + Stripe)**  
-- AI-powered chat and image generation  
-- Secure Stripe payment integration  
-- Built with the MERN stack (MongoDB, Express, React, Node.js) for scalable performance
-- Responsive, modern UI styled with Tailwind CSS and optimized for all devices  
+- Built an AI-powered platform offering text generation, summarization, and image creation, featuring a clean, responsive, and user-friendly interface. 
+- Developed secure authentication and scalable backend endpoints using Node.js, Express.js, and MongoDB, ensuring smooth API communication and efficient data management. 
+- Implemented reusable React components, integrated AI APIs, and optimized API usage for fast and accurate AI responses, providing a seamless content generation experience. 
 
 `MERN` `Tailwind CSS` `OpenAI` `ImageKit` `Stripe`
 
@@ -61,15 +60,11 @@
 
 ### 🏨 [YatriGhar - Nepal Comfort](https://yatrighar.vercel.app/)  
 **Full-Stack Hotel Booking Platform (MERN + Clerk + Stripe).**  
-- Seamless hotel booking experience built with the MERN stack (MongoDB, Express, React, Node.js) 
-- User authentication & authorization powered by Clerk  
-- Secure online payments integrated with Stripe  
-- Browse and book from featured destinations with real-time availability
-- Hotel owner dashboard to manage rooms, bookings, and revenue
-- Mobile-first, component-driven responsive UI for all devices
-- Enhanced user experience with testimonials, newsletter signup, and dynamic animations  
+- Built a full-featured travel and accommodation booking web app with a modern, responsive, and user-friendly interface, including hotel listings, real-time availability checks, booking management, and a robust admin dashboard.
+- Developed secure user authentication and authorization using Clerk, and created a clean, scalable frontend with React and Tailwind CSS, focusing on performance and seamless user experience. 
+- Built backend APIs with Node.js & Express.js, managed data storage and relationships using MongoDB, and integrated Stripe for secure online payments. 
 
-` Express` `React` `Node.js` `Clerk` `Stripe` `Tailwind CSS` `Vite`
+` MERN`  `Tailwind CSS`  `Stripe`  `Clerk`
 
 </td>
 </tr>
@@ -79,22 +74,20 @@
 
 ### 🛋️ [Meubel House](https://meubel-house-iota.vercel.app/)  
 **Full-Stack Furniture E-Commerce Platform (MERN + Cloudinary)**  
-- Modern online store for browsing and purchasing premium furniture 
-- Product management with categories, images, and real-time inventory 
-- Cloudinary integration for image optimization and fast delivery
+- Developed a modern, fully responsive furniture e-commerce website with an attractive, user-friendly UI, including product listings, category filters, product detail pages, search functionality, and mobile-optimized layouts. 
+- Developed secure and efficient backend APIs using Node.js & Express.js, managed product, category, user, and cart data in MongoDB, and implemented CRUD operations, API validation, error handling, and optimized queries for a smooth shopping experience.
 - Responsive, clean, and user-friendly UI built with React and Tailwind CSS
 
-`MongoDB` `Express.js` `React` `MongoDB` `Tailwind CSS` `Cloudinary`
+`MERN` `Tailwind CSS` `Cloudinary`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💼 [My Portfolio](https://bijaya-tamang.vercel.app/)  
 **Personal portfolio to showcase projects, skills & experience.**  
-- Dynamic personal portfolio designed to showcase projects, technical skills, and professional experience
-- Project highlights section with detailed descriptions, live previews, and GitHub links
-- Smooth animations and transitions powered by Framer Motion for a modern, engaging user experience
-- Responsive and minimalist UI built with React and Tailwind CSS, ensuring compatibility across all devices  
+- Modern, responsive portfolio-style interface built with React and Tailwind CSS, optimized to present projects clearly across all devices.
+- Dedicated project sections featuring detailed descriptions, live demos, and GitHub links to highlight the functionality and impact of Meubel and YatriGhar.
+- Enhanced user experience with smooth, polished animations powered by Framer Motion, creating a dynamic and engaging presentation. 
 
 `React` `Tailwind CSS` `Framer motion`
 
