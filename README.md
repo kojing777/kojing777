@@ -1,5 +1,5 @@
 <h1 align="center"> Namaste, I'm Bijaya Tamang </h1>
-<h3 align="center">MERN stack developer passionate about building scalable web applications. Skilled in MongoDB, Express, React, and Node.js with a focus on clean code, performance, and user-friendly digital experiences.</h3>
+<h3 align="center">Passionate MERN Stack Developer creating efficient and scalable web applications. Skilled in MongoDB, Express, React, and Node.js, emphasizing clean code, performance, and user-centric design.</h3>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="450">
 
