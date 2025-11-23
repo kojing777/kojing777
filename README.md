@@ -1,7 +1,7 @@
 <h1 align="center"> Namaste, I'm Bijaya Tamang </h1>
 <h3 align="center">MERN stack developer passionate about building scalable web applications. Skilled in MongoDB, Express, React, and Node.js with a focus on clean code, performance, and user-friendly digital experiences.</h3>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="475">
 
 <!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />
