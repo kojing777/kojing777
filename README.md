@@ -19,7 +19,7 @@
   • **Enhancing UI/UX using React, Tailwind CSS, and component-driven design.**  
    
 🎭 **Fun fact**  
-   • **My code works perfectly—until someone is watching.** <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="30">&nbsp;   
+   • **My code works perfectly—until someone is watching.** <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp;   
    
 **<h3 align="left">Connect with me</h3>**
 <p align="left">
