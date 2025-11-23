@@ -1,7 +1,7 @@
 <h1 align="center"> Namaste, I'm Bijaya Tamang </h1>
 <h3 align="center">MERN stack developer passionate about building scalable web applications. Skilled in MongoDB, Express, React, and Node.js with a focus on clean code, performance, and user-friendly digital experiences.</h3>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="475">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="450">
 
 <!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />
@@ -9,8 +9,7 @@
 </p> -->
 **<p align="left">About me:</p>**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="20">&nbsp;  **Currently focusing on learning and building projects to sharpen my MERN stack skills.**    
-• **Developing full-stack applications and refining both frontend and backend fundamentals.**
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="20">&nbsp;  **Currently focusing on building MERN stack projects to strengthen my full-stack skills and refine both frontend and backend fundamentals.**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">   **Learning**  
    • **MongoDB,  Express.js, React, Node.js, and Tailwind CSS.**   
