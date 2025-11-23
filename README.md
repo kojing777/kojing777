@@ -15,7 +15,7 @@
    • **MongoDB,  Express.js, React, Node.js, and Tailwind CSS.**   
    • **Best practices in API design, clean code, authentication & UI/UX flow**
    
-❓ **Ask me about**  
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="20"> **Ask me about**  
   • **Enhancing UI/UX using React, Tailwind CSS, and component-driven design.**  
    
 🎭 **Fun fact**  
