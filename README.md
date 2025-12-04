@@ -11,9 +11,9 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="20">&nbsp;  **Currently focusing on building MERN stack projects to strengthen my full-stack skills and refine both frontend and backend fundamentals.**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">   **Learning**  
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">   **Learning**  
    • **MongoDB,  Express.js, React, Node.js, and Tailwind CSS.**   
-   • **Best practices in API design, clean code, authentication & UI/UX flow.**
+   • **Best practices in API design, clean code, authentication & UI/UX flow.** -->
    
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="20"> **Ask me about**  
   • **Enhancing UI/UX using React, Tailwind CSS, and component-driven design.**  
@@ -37,7 +37,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 
 <br>
-<h2><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">&nbsp;My Projects</h2>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20"> Featured Projects
 
 <div align="center">
 
@@ -45,66 +46,77 @@
 <tr>
 <td width="50%" valign="top">
 
-### ✨ [Lama AI](https://lama-ai-five.vercel.app/)  
-**AI-Powered Full-Stack Web Application (MERN + OpenAI + ImageKit + Stripe)**  
-- Built an AI-powered platform offering text generation, summarization, and image creation, featuring a clean, responsive, and user-friendly interface. 
-- Developed secure authentication and scalable backend endpoints using Node.js, Express.js, and MongoDB, ensuring smooth API communication and efficient data management. 
-- Implemented reusable React components, integrated AI APIs, and optimized API usage for fast and accurate AI responses, providing a seamless content generation experience. 
+### 🏨 [YatriGhar – Nepal Comfort](https://yatrighar.vercel.app/)  
+**Full-Stack Hotel Booking Platform.**  
+- Complete booking system with hotel listings, real-time availability checks, booking management, and an admin dashboard.  
+- Secure authentication and authorization using Clerk, with a responsive frontend built using React and Tailwind CSS.  
+- Backend APIs built with Node.js and MongoDB, including Stripe integration for smooth and secure online payments.  
 
-`MERN` `Tailwind CSS` `OpenAI` `ImageKit` `Stripe`
+`MERN`  `Tailwind CSS` `Stripe` `Clerk`
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🏨 [YatriGhar - Nepal Comfort](https://yatrighar.vercel.app/)  
-**Full-Stack Hotel Booking Platform (MERN + Clerk + Stripe).**  
-- Built a full-featured travel and accommodation booking web app with a modern, responsive, and user-friendly interface, including hotel listings, real-time availability checks, booking management, and a robust admin dashboard.
-- Developed secure user authentication and authorization using Clerk, and created a clean, scalable frontend with React and Tailwind CSS, focusing on performance and seamless user experience. 
-- Built backend APIs with Node.js & Express.js, managed data storage and relationships using MongoDB, and integrated Stripe for secure online payments. 
+### ✨ [Lama AI](https://lama-ai-five.vercel.app/)  
+**AI-Powered Full-Stack Web Application.**  
+- AI platform offering text generation, summarization, and image creation with a clean and responsive UI.  
+- Secure backend built with Node.js, Express, and MongoDB for smooth API communication and scalable data handling.  
+- Integrated OpenAI, ImageKit, and Stripe, with optimized API usage and reusable React components for fast and accurate AI results.  
 
-` MERN`  `Tailwind CSS`  `Stripe`  `Clerk`
+`MERN` `Tailwind CSS` `OpenAI` `ImageKit`
 
 </td>
-</tr>
 
+</tr>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛋️ [Meubel House](https://meubel-house-iota.vercel.app/)  
-**Full-Stack Furniture E-Commerce Platform (MERN + Cloudinary)**  
-- Developed a modern, fully responsive furniture e-commerce website with an attractive, user-friendly UI, including product listings, category filters, product detail pages, search functionality, and mobile-optimized layouts. 
-- Developed secure and efficient backend APIs using Node.js & Express.js, managed product, category, user, and cart data in MongoDB, and implemented CRUD operations, API validation, error handling, and optimized queries for a smooth shopping experience.
-- Responsive, clean, and user-friendly UI built with React and Tailwind CSS
+**Furniture E-Commerce Platform.**  
+- Modern and responsive e-commerce site with product listings, filters, search, and detailed product pages.  
+- Scalable backend using Node.js and MongoDB with full CRUD operations, validation, error handling, and optimized queries.  
+- Product image handling integrated with Cloudinary, delivering fast and reliable media performance.  
 
-`MERN` `Tailwind CSS` `Cloudinary`
+`MERN`  `Tailwind CSS`  `Cloudinary`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💼 [My Portfolio](https://bijaya-tamang.vercel.app/)  
-**Personal portfolio to showcase projects, skills & experience.**  
-- Modern, responsive portfolio-style interface built with React and Tailwind CSS, optimized to present projects clearly across all devices.
-- Dedicated project sections featuring detailed descriptions, live demos, and GitHub links to highlight the functionality and impact of Meubel and YatriGhar.
-- Enhanced user experience with smooth, polished animations powered by Framer Motion, creating a dynamic and engaging presentation. 
+**Personal Portfolio Website.**  
+- Clean and responsive portfolio highlighting projects, skills, and experience across all devices.  
+- Project sections include live demos and GitHub links with clear and structured descriptions.  
+- Enhanced UI with Framer Motion animations for a smooth and engaging browsing experience.  
 
-`React` `Tailwind CSS` `Framer motion`
+`React`  `Tailwind CSS`  `Framer-Motion`
 
 </td>
+
 </tr>
 </table>
-</div>
 
+</div>
 
 </div>
 
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp;Tech Stack </h2>**
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,vercel,netlify,githubactions" />
+<!-- Line 1 -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postman,vscode" />
+
+<!-- Line 2 -->
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,redux,git,github,githubactions,vercel,netlify,c,cpp,cs,python" />
 
 </div>
 
-<h2>💼 Experience & 🎓 Education</h2>
+
+**<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">  Experience &  Education</h2>**
 <table>
 <tr>
 <td width="50%" valign="top">
