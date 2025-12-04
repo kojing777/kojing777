@@ -1,7 +1,7 @@
 <h1 align="center"> Namaste, I'm Bijaya Tamang </h1>
 <h3 align="center">Passionate MERN Stack Developer creating efficient and scalable web applications. Skilled in MongoDB, Express, React, and Node.js, emphasizing clean code, performance, and user-centric design.</h3>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="450">
 
 <!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />
@@ -16,10 +16,10 @@
    • **Best practices in API design, clean code, authentication & UI/UX flow.** -->
    
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="20"> **Ask me about**  
-  • **Enhancing UI/UX using React, Tailwind CSS, and component-driven design.**  
+  • **Crafting smooth, user-friendly interfaces with React, Tailwind, and clean component design.**  
    
 🎭 **Fun fact**  
-   • **I fix one bug and create two more—balance is important.** <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20"> <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp; -->
+   • **Dark mode isn’t just a preference—it’s a lifestyle.** <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20"> <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp; -->
    
 **<h3 align="left">Connect with me</h3>**
 <p align="left">
