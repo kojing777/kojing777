@@ -1,7 +1,7 @@
 <h1 align="center"> Namaste, I'm Bijaya Tamang </h1>
 <h3 align="center">Passionate MERN Stack Developer creating efficient and scalable web applications. Skilled in MongoDB, Express, React, and Node.js, emphasizing clean code, performance, and user-centric design.</h3>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="450">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" align="right" width="500">
 
 <!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kojing777&label=Profile%20views&color=0e75b6&style=flat" alt="kojing777" />
@@ -19,7 +19,7 @@
   • **Enhancing UI/UX using React, Tailwind CSS, and component-driven design.**  
    
 🎭 **Fun fact**  
-   • **My code works perfectly—until someone is watching.** <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20"> <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp; -->
+   • **I fix one bug and create two more—balance is important.** <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20"> <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="25">&nbsp; -->
    
 **<h3 align="left">Connect with me</h3>**
 <p align="left">
@@ -33,10 +33,10 @@
       <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">
    </a>
 </p>
-
+<h2></h2>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> -->
 
-<br>
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20"> Featured Projects
 
@@ -76,7 +76,7 @@
 ### 🛋️ [Meubel House](https://meubel-house-iota.vercel.app/)  
 **Furniture E-Commerce Platform.**  
 - Modern and responsive e-commerce site with product listings, filters, search, and detailed product pages.  
-- Scalable backend using Node.js and MongoDB with full CRUD operations, validation, error handling, and optimized queries.  
+- Scalable backend using Node.js and MongoDB with full CRUD operations, validation, and optimized queries.  
 - Product image handling integrated with Cloudinary, delivering fast and reliable media performance.  
 
 `MERN`  `Tailwind CSS`  `Cloudinary`
@@ -114,7 +114,7 @@
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,redux,git,github,githubactions,vercel,netlify,c,cpp,cs,python" />
 
 </div>
-
+<br>
 
 **<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">  Experience &  Education</h2>**
 <table>
