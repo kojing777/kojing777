@@ -119,37 +119,6 @@
 </div>
 <br>
 
-**<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25">  Experience &  Education</h2>**
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>💼 Experience</h3>
-
-<!-- <**Frontend Developer Intern** @ XYZ Company  
-  *Jan 2024 – Jun 2024*  
-  Worked on React, Tailwind & API integrations.--> 
-
-- **Own MERN Projects**  
-  *2025 – Present*  
-Developed modern web apps using the MERN stack, focusing on scalability, performance, and intuitive design.  
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🎓 Education</h3>
-
-- **Bachelor of Science in Computer Science and Information Technology**  
-  TU University (*2022 – Present*)  
-
-- **High School (+2 Science)**  
-  Nepalaya College (*2019 – 2021*)  
-
-</td>
-</tr>
-</table>
-
 **<h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp;GitHub Stats</h2>**
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kojing777&show_icons=true&locale=en" alt="kojing777" width="48%" />
